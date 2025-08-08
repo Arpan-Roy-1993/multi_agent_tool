@@ -16,17 +16,14 @@ This project demonstrates how to build a multi-agent AI system using **LangGraph
 
 ## 📁 Structure
 
-multiaiagent/
-├── multiaiagent.ipynb # Notebook demonstrating the architecture
-├── app/ # FastAPI app files (optional structure)
-├── static/ # Static frontend assets (JS/CSS)
-├── templates/ # Jinja2 HTML templates
-├── .env # Environment variables (OpenAI, Redis, etc.)
+multi_ai_agent/<br>
+├── multiaiagent.ipynb # Notebook demonstrating the architecture <br>
+├── app/ # FastAPI app files (optional structure)<br>
+├── static/ # Static frontend assets (JS/CSS)<br>
+├── templates/ # Jinja2 HTML templates<br>
+├── .env # Environment variables (OpenAI, Redis, etc.)<br>
 └── README.md # You're here!
 
-bash
-Copy
-Edit
 
 ## 🛠️ Technologies Used
 
@@ -69,3 +66,4 @@ Multi-agent task coordination (e.g., planner + executor)
 Integration with product recommender or vector DB
 
 LangGraph state visualization UI
+
