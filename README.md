@@ -29,9 +29,7 @@ multi_ai_agent/<br>
 
 - [LangGraph](https://github.com/langchain-ai/langgraph)
 - [LangChain](https://github.com/langchain-ai/langchain)
-- [OpenAI API](https://platform.openai.com/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Redis](https://redis.io/)
+
 - [LangSmith](https://smith.langchain.com/) for agent monitoring
 
 ## 📦 Setup Instructions
@@ -66,4 +64,5 @@ Multi-agent task coordination (e.g., planner + executor)
 Integration with product recommender or vector DB
 
 LangGraph state visualization UI
+
 
